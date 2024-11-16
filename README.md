@@ -18,7 +18,9 @@ Figure 2 : L'ajoute de l'étudiant 2.
 Figure 3 : les résultats de l'ajoute.
 
 ![WhatsApp Image 2024-11-16 à 15 57 34_6b61398b](https://github.com/user-attachments/assets/14a93636-6948-4893-9a81-a045fb18d8d6)
+
 Figure 4 : les étudiants sont ajoutés dans la base de données avec succès.
+
 
 
 

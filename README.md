@@ -24,6 +24,10 @@ Figure 4 : les étudiants sont ajoutés dans la base de données avec succès.
 ![image](https://github.com/user-attachments/assets/1198c252-06a6-4451-83b9-9cf712928279)
 Figure 5 : les tests sur Swagger.
 
+https://github.com/user-attachments/assets/72802496-3190-4191-8e40-e24aa725ff40
+Figure 6 : Vidéo démonstratif.
+
+
 
 
 
